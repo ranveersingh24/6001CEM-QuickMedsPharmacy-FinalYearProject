@@ -11,5 +11,6 @@ Example of services includes:
 To run the website:
 - Download and extract the GitHub
 - Turn on XAMPP Control Panel
+- Download and import database into MySQL from database folder
 - Open command prompt, run cd -file location- and run php artisan serve
 - Admin email (admin@toptenplus.com.my) and password (admin1234)
